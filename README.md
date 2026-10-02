@@ -77,8 +77,10 @@ Key design decisions:
 tanksync-pcb/
 ├── README.md
 ├── LICENSE
-├── schematic/
-│   └── TankSync_RX_Schematic.pdf
+├── images/
+│   └── 3D view.png
+|   ├── TankSync-rx.png
+|   ├── pcb-layout.png
 ├── gerbers/
 │   └── TankSync_RX_Gerbers.zip
 ├── bom/
